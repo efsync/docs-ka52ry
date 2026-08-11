@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-b2gv3p.saturadar88win.sbs/sitemap.xml
